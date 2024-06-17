@@ -1,0 +1,20 @@
+/*------ CSS trang chính ------*/
+body{ 
+	min-height: 100vh; 	
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+}
+
+/*------ CSS nhân viên quản lý ------*/
+.ql-card {
+	background-color: white;
+	border-width: 5px;
+	border-color: black;
+	color:black;
+}
+
+.ql-card-footer {
+	border-width: 2px;
+	background-color: black;
+	color:white;
+}
