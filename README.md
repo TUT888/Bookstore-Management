@@ -7,6 +7,9 @@ Final project includes 2 modules:
 ## Project Description
 **This is the Admin module of Bookstore Management project** <br>
 This web application should be used by employees working at the Bookstore. <br> 
+
+![Admin page](demo/image.png)
+
 Functionalities includes:
 - User authentication & security: 
     - Login, logout
